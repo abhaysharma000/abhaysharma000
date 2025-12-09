@@ -48,7 +48,7 @@ To become a skilled **AI/ML Engineer** and work on real-world intelligent system
 ## 🌐 Connect With Me
 
 <a href="https://github.com/abhaysharma000" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Connect-blue?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/abhay-sharma001/" target="_blank">
