@@ -7,12 +7,6 @@
 
 ---
 
-## 🔗 Connect With Me
-- 💼 LinkedIn:  
-  👉 https://www.linkedin.com/in/abhay-sharma001/
-- 💻 GitHub:  
-  👉 https://github.com/abhaysharma000
-
 ---
 
 ## 🧠 About Me
@@ -51,10 +45,15 @@ Currently focusing on:
 To become a skilled **AI/ML Engineer** and work on real-world intelligent systems that impact lives.
 
 ---
+## 🌐 Connect With Me
 
-## 📫 Contact Me
-📧 Email: (add your email here if you want)  
-💼 LinkedIn: https://www.linkedin.com/in/abhay-sharma001/
+<a href="https://github.com/abhaysharma000" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhay-sharma001/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 ---
 
